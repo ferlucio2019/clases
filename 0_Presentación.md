@@ -19,3 +19,5 @@ Lo primero que tenemos que hacer es crear la infraestructura para la obtención 
 
 https://www.youtube.com/watch?v=wlWLBJukhj0
 
+[![Un camino para el científico de datos]](https://www.youtube.com/watch?v=wlWLBJukhj0)
+
