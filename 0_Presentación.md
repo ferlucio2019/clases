@@ -21,3 +21,5 @@ https://www.youtube.com/watch?v=wlWLBJukhj0
 
 [![Un camino para el científico de datos](https://www.youtube.com/watch?v=wlWLBJukhj0)]
 
+[![Everything Is AWESOME](https://img.youtube.com/vi/wlWLBJukhj0/0.jpg)](https://www.youtube.com/watch?v=wlWLBJukhj0 "Everything Is AWESOME")
+
