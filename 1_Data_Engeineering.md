@@ -69,5 +69,10 @@ Un pequeño ejemplo de como montar un pequeño sistema en la nube
 
 [![Un ejemplo en Play with docker](https://img.youtube.com/vi/YNXJDyAj4dM/0.jpg)](https://www.youtube.com/watch?v=YNXJDyAj4dM "Un ejemplo en Play with docker")
 
+Ahora un pequeño proyecto de desarrolo de trabajo en un enorno con docker
 
+[![Un ejemplo aplicaciones en Ciencia de Datos](https://img.youtube.com/vi/gBalsA-x300/0.jpg)](https://www.youtube.com/watch?v=gBalsA-x300 "Un ejemplo aplicaciones en ciencia de datos")
+
+Tambien podemos jugar con varias aplicaciones
+[![Construir un repositorio de aplicaciones](https://img.youtube.com/vi/bl1XSZy11vQ/0.jpg)](https://www.youtube.com/watch?v=bl1XSZy11vQ "Construir un repositorio de Aplicaciones")
 
