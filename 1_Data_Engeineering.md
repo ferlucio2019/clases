@@ -47,9 +47,9 @@ Podemos trabajar en la nube con Notebooks.ai
 
 Una vez Instalado Docker podemos descargarnos un contenedor creado para poder trabajar en data science
 
-
-###### docker run -it --rm -p 10000:8888 -v 
-
+~~~
+docker run -it --rm -p 10000:8888 -v 
+~~~
 ## Docker en la Nube
 
 Aparte de poder instalar docker en nuestra máquina podemos instalarlo en la nube ( AWS, Google Cloud, ....) o en ciertos servicios como
@@ -58,9 +58,9 @@ Aparte de poder instalar docker en nuestra máquina podemos instalarlo en la nub
 
 
 Podemos descargar un docker ya conformado
-
+~~~
 docker run -it --rm -p 10000:8888 -v 
-
+~~~
 Que nos permite aprender docker y ver ciertos desarrollos como data engineering. Os pongo un manual.
 
 [Enseñar play with docker](https://training.play-with-docker.com/ "Jugar con play with Docker")
@@ -69,5 +69,10 @@ Un pequeño ejemplo de como montar un pequeño sistema en la nube
 
 [![Un ejemplo en Play with docker](https://img.youtube.com/vi/YNXJDyAj4dM/0.jpg)](https://www.youtube.com/watch?v=YNXJDyAj4dM "Un ejemplo en Play with docker")
 
+Ahora un pequeño proyecto de desarrolo de trabajo en un enorno con docker
 
+[![Un ejemplo aplicaciones en Ciencia de Datos](https://img.youtube.com/vi/gBalsA-x300/0.jpg)](https://www.youtube.com/watch?v=gBalsA-x300 "Un ejemplo aplicaciones en ciencia de datos")
+
+Tambien podemos jugar con varias aplicaciones
+[![Construir un repositorio de aplicaciones](https://img.youtube.com/vi/bl1XSZy11vQ/0.jpg)](https://www.youtube.com/watch?v=bl1XSZy11vQ "Construir un repositorio de Aplicaciones")
 
